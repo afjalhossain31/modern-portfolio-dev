@@ -402,3 +402,20 @@ footer .footer-container {
         flex-direction: column;
     }
 }
+
+/* Responsive
+Web First design 
+
+--laptop device
+@media screen and (max-width:1200px){}
+
+--tablet device 
+@media screen and (max-width:992px) {}
+
+--Big mobile device
+@media screen and (max-width:768px) {}
+--normal mobile device
+@media screen and (min-width:576px) {}
+--device specific media query  */
+/* @media screen and (min-width:576px) and (max-width:992px) {} */
+
